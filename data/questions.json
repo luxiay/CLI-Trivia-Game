@@ -1,0 +1,62 @@
+[
+    {
+      "question": "What is the capital of France?",
+      "choices": ["Berlin", "Madrid", "Paris", "Rome"],
+      "answer": "Paris"
+    },
+    {
+      "question": "What is the capital of Japan?",
+      "choices": ["Tokyo", "Kyoto", "Osaka", "Sapporo"],
+      "answer": "Tokyo"
+    },
+    {
+      "question": "What is the capital of Canada?",
+      "choices": ["Toronto", "Vancouver", "Ottawa", "Montreal"],
+      "answer": "Ottawa"
+    },
+    {
+      "question": "What is the capital of Australia?",
+      "choices": ["Sydney", "Melbourne", "Brisbane", "Canberra"],
+      "answer": "Canberra"
+    },
+    {
+      "question": "What is the capital of the United States?",
+      "choices": ["New York", "Washington, D.C.", "Los Angeles", "Chicago"],
+      "answer": "Washington, D.C."
+    },
+    {
+      "question": "What is the capital of China?",
+      "choices": ["Shanghai", "Guangzhou", "Beijing", "Chengdu"],
+      "answer": "Beijing"
+    },
+    {
+      "question": "What is the capital of Germany?",
+      "choices": ["Berlin", "Munich", "Hamburg", "Frankfurt"],
+      "answer": "Berlin"
+    },
+    {
+      "question": "What is the capital of Brazil?",
+      "choices": ["Rio de Janeiro", "São Paulo", "Brasília", "Salvador"],
+      "answer": "Brasília"
+    },
+    {
+      "question": "What is the capital of India?",
+      "choices": ["Mumbai", "Bangalore", "New Delhi", "Kolkata"],
+      "answer": "New Delhi"
+    },
+    {
+      "question": "What is the capital of Italy?",
+      "choices": ["Venice", "Rome", "Milan", "Naples"],
+      "answer": "Rome"
+    },
+    {
+      "question": "What is the capital of Russia?",
+      "choices": ["Saint Petersburg", "Moscow", "Kazan", "Sochi"],
+      "answer": "Moscow"
+    },
+    {
+      "question": "What is the capital of South Korea?",
+      "choices": ["Busan", "Incheon", "Seoul", "Daegu"],
+      "answer": "Seoul"
+    }
+]
